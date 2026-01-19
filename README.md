@@ -6,6 +6,10 @@ A modern, client-side JWT (JSON Web Token) debugger and generator built with Rea
 ![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38b2ac?style=for-the-badge&logo=tailwind-css)
 
+## 📸 Screenshot
+
+![JWT Debugger Screenshot](screenshot.png)
+
 ## 🔐 Security First
 
 **100% Client-Side** — All JWT encoding, decoding, and verification happens entirely in your browser. No data is ever sent to any server.
