@@ -2,11 +2,15 @@
   "name": "jwt-debugger",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://ilias1988.github.io/jwt-debugger",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "jose": "^5.2.0",

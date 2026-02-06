@@ -6,6 +6,18 @@ A modern, client-side JWT (JSON Web Token) debugger and generator built with Rea
 ![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38b2ac?style=for-the-badge&logo=tailwind-css)
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-00f2e6?style=for-the-badge)](https://ilias1988.github.io/jwt-debugger)
+
+## 🌐 Live Demo
+
+**Try it now!** No installation required:
+
+👉 **[https://ilias1988.github.io/jwt-debugger](https://ilias1988.github.io/jwt-debugger)**
+
+Simply click the link above to use the JWT Debugger directly in your browser!
+
+---
+
 ## 📸 Screenshot
 
 ![JWT Debugger Screenshot](screenshot.png)
