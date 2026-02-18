@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Github, RotateCcw, Moon, Sun, Linkedin } from 'lucide-react';
+import { Shield, Github, RotateCcw, Moon, Sun, Linkedin, Globe } from 'lucide-react';
 import TemplateSelector from '../features/TemplateSelector';
 
 // X (Twitter) Icon Component
@@ -49,6 +49,16 @@ const Header = ({ onApplyTemplate, onReset, isDark, onToggleTheme }) => {
           </button>
 
           {/* Social Media Links */}
+          <a
+            href="https://ilias1988.me/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-2 text-gray-300 hover:text-white bg-dark-700 hover:bg-dark-600 rounded-lg transition-colors"
+            title="Website"
+          >
+            <Globe className="w-5 h-5" />
+          </a>
+
           <a
             href="https://github.com/Ilias1988"
             target="_blank"

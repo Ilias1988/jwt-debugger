@@ -1,0 +1,8 @@
+# robots.txt for JWT Debugger
+# https://ilias1988.github.io/jwt-debugger/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ilias1988.github.io/jwt-debugger/sitemap.xml
